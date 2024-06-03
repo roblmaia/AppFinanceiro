@@ -53,7 +53,7 @@ function HomeScreen({ navigation }) {
         <Button title="Ir para Receitas" onPress={() => navigation.navigate('Receitas')} />
       </View>
     </View>
-
+a
   );
 };
 
